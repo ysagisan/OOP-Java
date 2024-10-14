@@ -1,0 +1,9 @@
++=lab2_Calculator.Commands.Plus
+-=lab2_Calculator.Commands.Minus
+*=lab2_Calculator.Commands.Multiply
+/=lab2_Calculator.Commands.Devide
+POP=lab2_Calculator.Commands.Pop
+PUSH=lab2_Calculator.Commands.Push
+SQRT=lab2_Calculator.Commands.Sqrt
+PRINT=lab2_Calculator.Commands.Print
+DEFINE=lab2_Calculator.Commands.Define
